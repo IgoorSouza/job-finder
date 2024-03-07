@@ -1,0 +1,1 @@
+Para utilizar a aplicação, execute no terminal os comandos "npm run dev" e "npm run dev:server" simultaneamente. Para facilitar a visualização e manipulação do banco de dados, é recomendado utilizar o software DB Browser for SQLite.
